@@ -1,6 +1,6 @@
-# Electron + Svelte + TailwindCSS 2.0 + RollupJS starter
+# Electron + Svelte + TailwindCSS 2.0 + DaisyUI + RollupJS starter
 
-Starter template for [Electron](https://www.electronjs.org/) + [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) apps.
+Starter template for [DaisyUI](https://daisyui.com/) and [Electron](https://www.electronjs.org/) + [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) apps.
 
 Based on [Svelte + TailwindCSS 2.0 starter](https://github.com/breadthe/svelte-tailwind2-starter).
 
@@ -9,6 +9,10 @@ Features:
 - Electron 11
 - Svelte 3
 - TailwindCSS 2
+
+
+
+
 - Rollup
 - SCSS support
 
